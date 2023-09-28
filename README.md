@@ -1,4 +1,4 @@
-<h1 align="center">NLW AI ⚛️</h1>
+<h1 align="center">NLW AI </h1>
 <p align="center"> :rocket: Automated Video SEO :rocket:</p>
 
 <h4 align="center"> 
@@ -32,7 +32,7 @@ $ git clone <[https://github.com/edupferraz/IgniteLab-React.git](https://github.
 
 ## Create a .env in ./src
 
-## Add this informations
+## Add this informations in .env
 
   DATABASE_URL="file:./dev.db"
   OPENAI_KEY="YOUR_KEY"
